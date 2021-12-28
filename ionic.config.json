@@ -1,0 +1,7 @@
+{
+  "name": "hcIonicDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
